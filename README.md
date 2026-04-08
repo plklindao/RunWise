@@ -17,11 +17,11 @@ Nome: [Preencher] | CPF: [Preencher] | RG: [Preencher]
 E-mail: [Preencher] | Telefone: [Preencher]
 
 ### EQUIPE (5 Estudantes)
-1. Nicolas Junior Silverio Rodrigues | CPF: 162.684.799-12 | RG: 156448583 | (43)99901-3541
-2. Gustavo Vinicius Blazius | CPF: 135.860.459-21 | RG: 7.972.943 | (43)99971-9453
-3. Adryan Rafael Galvão de Campos | CPF: 148.671.829-90 | RG: 15.645.680-2 | (43)99913-6367
-4. Kauan Stipp Pedroso | CPF: 163.105.939-43 | RG: 15.645.995-0 | (43)99607-6041
-5. Victor Gabriel Galvão Pereira | CPF: 111.413.869-09 | RG: 14.009.682-2 | (43)99626-5915
+1. Nicolas Junior Silverio Rodrigues |
+2. Gustavo Vinicius Blazius |
+3. Adryan Rafael Galvão de Campos |
+4. Kauan Stipp Pedroso |
+5. Victor Gabriel Galvão Pereira |
 
 ## 🎯 INTRODUÇÃO
 
