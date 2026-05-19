@@ -1,0 +1,6 @@
+{
+  // Preencha: name, version, description
+  // Em "scripts": adicione "start" com node e "dev" com nodemon
+  // Em "dependencies": express, cors, dotenv, jsonwebtoken, bcrypt
+  // Em "devDependencies": nodemon
+}

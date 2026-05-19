@@ -1,0 +1,6 @@
+{
+  // Preencha: name, version
+  // Em "scripts": start, build, test
+  // Em "dependencies": react, react-dom, react-router-dom, axios
+  // Inicialize com: npx create-react-app site
+}
