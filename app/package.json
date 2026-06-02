@@ -1,0 +1,5 @@
+{
+  // Inicialize com: npx create-expo-app app
+  // Em "dependencies": expo, react-native, @react-navigation/native,
+  //   @react-navigation/stack, axios, expo-secure-store
+}
